@@ -1,6 +1,6 @@
 # degresSavard
 
-###### _Code utilisé pour le [robot](https://twitter.com/degressavard) tweetant à toutes les heures l'«indice total de météo pondéré», une blague météorologique de Fred Savard, d'où l'appellation «degrés Savard»_.
+###### _Code utilisé pour le [robot](https://twitter.com/degressavard) tweetant à toutes les heures l'«indice total de météo pondéré», une blague météorologique de [Fred Savard](https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Savard), d'où l'appellation «degrés Savard»_.
 
 :sunny: :cloud: :snowflake:
 
