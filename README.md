@@ -15,4 +15,4 @@ Il retranche la température la plus élevée et la température la plus basse, 
 
 ###_Les degrés Savard comme indice du changement climatique_
 
-Les données homogénéisées qui ont servi à ce billet de blogue faisant l'exercice de calculer les degrés Savard depuis le plus longtemps possible afin de voir dans quelle mesure ils pouvaient être indicatifs du changement climatique au Canada ont été recueillies sur [ce site FTP](ftp://ccrp.tor.ec.gc.ca/pub/EC_data/AHCCD_daily/). Je les ai traitées avec trois scripts, puis organisées en un fichier CSV que je partage ici: **degreSavardHomogeneises_1946-2011.csv**
+Les données homogénéisées qui ont servi à [ce billet de blogue](http://jhroy.ca/2015/12/les-degres-savard-comme-indice-du-rechauffement-climatique-au-canada/) faisant l'exercice de calculer les degrés Savard depuis le plus longtemps possible afin de voir dans quelle mesure ils pouvaient être indicatifs du changement climatique au Canada ont été recueillies sur [ce site FTP](ftp://ccrp.tor.ec.gc.ca/pub/EC_data/AHCCD_daily/). Je les ai traitées avec trois scripts, puis organisées en un fichier CSV que je partage ici: **donneesHomogeneises_1946-2011.csv**
