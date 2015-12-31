@@ -12,3 +12,7 @@ Il retranche la température la plus élevée et la température la plus basse, 
 
 **meteo.rb**
 - Ce script fait la même chose que son petit frère en python à une exception près: il ajoute, aléatoirement, les points de fusion ou d'ébullition de différents éléments et composés organiques ou d'autres températures importantes. Il peut également ajouter un message à portée environnementale, car [si on recule dans le temps](http://climat.meteo.gc.ca/index_f.html), l'indice total de météo pondéré peut permettre de mesurer le réchauffement des températures au Canada.
+
+###_Les degrés Savard comme indice du changement climatique_
+
+Les données homogénéisées qui ont servi à ce billet de blogue faisant l'exercice de calculer les degrés Savard depuis le plus longtemps possible afin de voir dans quelle mesure ils pouvaient être indicatifs du changement climatique au Canada ont été recueillies sur [ce site FTP](ftp://ccrp.tor.ec.gc.ca/pub/EC_data/AHCCD_daily/). Je les ai traitées avec trois scripts, puis organisées en un fichier CSV que je partage ici: **degreSavardHomogeneises_1946-2011.csv**
